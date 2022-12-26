@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+nav {
+    background: #FFF7E9;
+}
+.logo {
+    width: 89px;
+  
+}
+.navbar-collapse a{
+    color: #1746A2;
+    font-family: 'Poppins', sans-serif;
+}
+.dropdown:hover>.dropdown-menu {
+    display: block;
+ 
+}
+li :hover{
+    background-color: white;
+    border-radius: 5px;
+}
+form {
+    padding: 5px;
+}
+.carousel {
+    padding: 15px;
+}
+.carousel .carousel-inner{
+    border-radius: 30px;
+}
+.carousel .carousel-indicators button {
+    background-color: #1746A2;
+}
+h5 {
+    font-family: 'Poppins', sans-serif;
+    color: #0d275c;
+    padding: 15px;
+}
+.fav {
+    margin-left: 200px;
+  
+}
+.card {
+    width:10rem;  
+}
+.card-group {
+    width: 60rem;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+h6 {
+    font-family: 'Poppins', sans-serif;
+    color: #0d275c;
+    
+}
+h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #0d275c;
+}
+p {
+    font-family: 'Poppins', sans-serif;
+    color: #5F9DF7;
+}
+
+.accordion {
+    padding: 15px; 
+}
+
+.pagination {
+    padding: 15px;
+    background: white;
+    
+}
+
+label {
+    font-family: 'Poppins', sans-serif;
+    color: #FF731D;
+}
+
+.form-floating {
+    padding: 10px; 
+}
